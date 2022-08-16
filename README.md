@@ -3,10 +3,10 @@ With the advance of L2+ automated driving, more and more drivers pay
 less attention to the road while driving, which poses a great risk to the road safety, and so does drowsiness.  In order to combat this problem, I developed this prototype for monitoring the driver's attention, issuing an audio alarm when necessary and saving the video periodically. 
 
 ## Overview 
-###Sensor:
+### Sensor:
  A single web camera 
 
-###Backbone
+### Backbone
 [Mediapipe](https://google.github.io/mediapipe/) (deep learning tool developed by Google,
 Apache-2.0 license), predicts a face mesh made up of a list of 468 points. With the known indices of eyebrow, eye, iris, noise and face edge, one can easily connect them and use relevant method to monitor them.
 <p align="left">
@@ -16,7 +16,7 @@ Apache-2.0 license), predicts a face mesh made up of a list of 468 points. With 
 
 
   
-###speed
+### speed
 30FPS and higher 
 
 ## Features
