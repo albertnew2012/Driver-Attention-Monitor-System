@@ -1,4 +1,4 @@
-#Driver attention monitor system
+# Driver attention monitor system
 With the advance of L2+ automated driving, more and more drivers pay 
 less attention to the road while driving, which poses a great risk to the road safety, and so does drowsiness.  In order to combat this problem, I developed this prototype for monitoring the driver's attention, issuing an audio alarm when necessary and saving the video periodically. 
 
@@ -27,7 +27,7 @@ Apache-2.0 license), predicts a face mesh made up of a list of 468 points. With 
 - Face orientation 
 - Yawn 
 
-###To be implemented
+### To be implemented
 - EAR pulse pattern analysis 
 - Head movement track and analysis 
 - voice recorder  
@@ -55,5 +55,5 @@ Due to light condition,or wearing a sunglass, eyes may not be detected properly,
 
 <img src="./md/ezgif.com-gif-maker.gif"  />
 
-##Acknowledgement 
+## Acknowledgement 
 This implementation of driver attention monitor system was deeply inspired by [Asadullah Dal](https://github.com/Asadullah-Dal17/iris-Segmentation-mediapipe-python) for Iris visbility calculation and [Nicolai Nielsen](https://www.youtube.com/watch?v=-toNMaS4SeQ) for face pose estimation.
