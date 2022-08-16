@@ -10,8 +10,8 @@ less attention to the road while driving, which poses a great risk to the road s
 [Mediapipe](https://google.github.io/mediapipe/) (deep learning tool developed by Google,
 Apache-2.0 license), predicts a face mesh made up of a list of 468 points. With the known indices of eyebrow, eye, iris, noise and face edge, one can easily connect them and use relevant method to monitor them.
 <p align="left">
-<img src="./md/canonical_face_model_uv_visualization.png" width="500" height="500" />
-<img src="./md/face-outline.png" width="500" height="500" />
+<img src="./md/canonical_face_model_uv_visualization.png" width="300" height="300" />
+<img src="./md/face-outline.png" width="300" height="300" />
 </p>
 
 
